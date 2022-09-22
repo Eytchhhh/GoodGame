@@ -1,0 +1,16 @@
+h1,p,h5{
+    color:rgba(51, 3, 3); 
+}
+p{
+    text-align: justify;
+}
+.btn{
+    color:rgba(51, 3, 3);
+    background-color:#fff;
+    border-color: rgba(51, 3, 3);
+}
+.btn:hover{
+    color:#fff;
+    background-color:rgba(51, 3, 3);
+    border-color: #fff;
+}

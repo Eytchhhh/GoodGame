@@ -1,0 +1,19 @@
+.navbar-fixed-top{
+    background-color:rgba(51, 3, 3) !important;
+    box-shadow: 5px 5px 7px #000 !important;
+    
+   
+  
+}
+.banner{
+    height: 4vh;
+    width:3vw;
+    cursor: pointer;
+}
+.navbar-nav {
+    margin-left: auto;
+    
+}
+.nav-link{
+    color:#fff;
+}

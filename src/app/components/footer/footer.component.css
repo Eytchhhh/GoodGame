@@ -1,0 +1,21 @@
+.container-fluid{
+    background-image: linear-gradient(to right, rgba(51,1,1,0.4) 35%, rgba(51,1,1,0.8) 82%), url('/assets/overhead-shot-dark-workplace-with-tablet-office-supplies-wireless-headphone-copy-space_67155-5906.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-top-right-radius: 75px;
+    border-top-left-radius: 75px;
+
+}
+h3{
+    letter-spacing: 0.1rem;
+
+}
+ul, a{
+    list-style-type: none;
+    text-decoration: none;
+    color:#fff;
+    line-height: 1.8rem;
+    letter-spacing: 0.1rem;
+    
+}

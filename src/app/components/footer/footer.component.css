@@ -1,5 +1,5 @@
 .container-fluid{
-    background-image: linear-gradient(to right, rgba(51,1,1,0.4) 35%, rgba(51,1,1,0.8) 82%), url('assets/overhead-shot-dark-workplace-with-tablet-office-supplies-wireless-headphone-copy-space_67155-5906.jpg');
+    background-image: linear-gradient(to right, rgba(51,1,1,0.4) 35%, rgba(51,1,1,0.8) 82%), url('src/assets/overhead-shot-dark-workplace-with-tablet-office-supplies-wireless-headphone-copy-space_67155-5906.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
